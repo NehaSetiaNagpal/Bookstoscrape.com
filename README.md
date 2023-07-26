@@ -13,7 +13,6 @@ I followed the Neo4j tutorials to build a basic recommendation engine. Here's th
 
 #### Steps 
 - I created the extracted Books Nodes and People Nodes.
-![graph.png](https://github.com/NehaSetiaNagpal/Bookstoscrape.com/blob/main/images/graph.png)
 
 
 - Then, I created the relationships between them on the basis of their journeys or curated paths to achieve the self-awareness goals of an individual. 
