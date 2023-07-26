@@ -12,8 +12,14 @@ This is the base code of a small demo built for the webinar Graphversation Ep. 3
 I followed the Neo4j tutorials to build a basic recommendation engine. Here's the reference I followed [Tutorial: Build a Cypher Recommendation Engine](https://neo4j.com/developer/cypher/guide-build-a-recommendation-engine/) 
 
 #### Steps 
-- I created the extracted Books Nodes and People Nodes
+- I created the extracted Books Nodes and People Nodes.
+![graph.png](https://github.com/NehaSetiaNagpal/Bookstoscrape.com/blob/main/images/graph.png)
+
+
 - Then, I created the relationships between them on the basis of their journeys or curated paths to achieve the self-awareness goals of an individual. 
+![Screenshot 2023-06-12 at 2.32.28 PM.png](https://github.com/NehaSetiaNagpal/Bookstoscrape.com/blob/main/images/Screenshot%202023-06-12%20at%202.32.28%20PM.png)
+
+
 - Query for recommending the most chosen path by the users on their self-awareness journey.
 
  
